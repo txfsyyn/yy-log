@@ -16,8 +16,8 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 profile_url: "http://txfsyyn.github.io"
-#baseurl: "/yy-log"
-baseurl:
+baseurl: "/yy-log"
+#baseurl:
 permalink: pretty
 
 # Pagination
