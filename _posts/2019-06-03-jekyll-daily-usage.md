@@ -13,8 +13,8 @@ tags: cheatsheet
 cd yy-log
 bundle exec jekyll serve
 ```
-Browse the blog at [local](http://127.0.0.1:4000/yy-log/)
+Browse [Y's blog](http://127.0.0.1:4000/yy-log/) at local.
 
 ### Clients
-Browse the blog at [github pages](https://txfsyyn.github.io/yy-log/)
+Browse [Y's blog](https://txfsyyn.github.io/yy-log/) at git. 
 
