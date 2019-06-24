@@ -26,6 +26,10 @@
     {% unless headlessPost %}
       <header class="post-header">
 
+		<script type="text/javascript" async
+		src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+		</script>
+
         {% comment %} % Not to show title for quote posts that do not have a title {% endcomment %}
         {% unless is_index and post.type == 'quote' and post.title == nil %}
           <{% if site.seo %}h2{% else %}h1{% endif %} class="post-title" itemprop="name headline">
